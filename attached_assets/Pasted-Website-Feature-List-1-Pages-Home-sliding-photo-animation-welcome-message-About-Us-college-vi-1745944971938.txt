@@ -1,0 +1,90 @@
+Website Feature List:
+1. Pages
+Home (sliding photo animation, welcome message)
+
+About Us (college vision, mission, history)
+
+Academics (departments, faculty)
+
+Courses (UG/PG, course descriptions)
+
+Gallery (images & artwork, filterable by type)
+
+Events (upcoming, past)
+
+News & Updates (notices, announcements)
+
+FAQs (interactive accordion)
+
+Contact Us (form, map)
+
+2. Functional Features
+Fully Responsive Layout
+
+SPA using React Router (Vite)
+
+Admin Panel (for updating content)
+
+Dynamic Content from backend (editable pages)
+
+Form validation & submission
+
+SEO-optimized metadata setup
+
+3. UI/UX Enhancements
+Light/Dark Mode Toggle (auto-optimizing text and icons)
+
+Keyboard Navigation (Tab & Arrow key controls)
+
+Cursor moving animation (trailing particle or glow)
+
+Text highlight animation on hover
+
+Slide-in home page photo animation
+
+Sticky Navbar with scroll effect
+
+Animated transitions between pages
+
+Scroll-to-top button
+
+4. Design Colors (Your Theme)
+Primary Orange: #f77400
+
+Accent Yellow: #fec200
+
+Neutral Grey: #a3a3a7
+
+Deep Blue: #04006c
+
+Prompt for Replit AI (Copy-Paste)
+markdown
+Copy
+Edit
+Build a complete dynamic college website for "Rahini College of Art and Design" using React (Vite), with the following:
+
+Pages:
+- Home (with sliding photo animation, college intro, CTA)
+- About Us, Academics, Courses, FAQs, Gallery, Events, News & Updates, Contact
+
+Features:
+- Admin Panel to manage content
+- Dark and Light Mode toggle (auto optimize text, icon, and background)
+- Text highlight animations and cursor movement animation
+- Keyboard navigation (Arrow key or Tab through links and sections)
+- Scroll-triggered animations and sticky navbar
+- Scroll-to-top button
+
+Design Theme:
+Use these brand colors: Orange `#f77400`, Yellow `#fec200`, Grey `#a3a3a7`, Dark Blue `#04006c`
+Ensure font colors, icons, and components change with dark/light mode
+Add animated transitions between page loads
+
+Technologies:
+- React (Vite)
+- React Router DOM
+- Tailwind CSS (with animations)
+- Context API or Redux for theme toggling
+- Backend ready for content management (Express or Firebase if needed)
+
+Make it highly attractive, interactive, and perfect for a creative art college.
